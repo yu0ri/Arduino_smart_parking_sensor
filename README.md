@@ -12,6 +12,10 @@ A smart parking sensor system developed using C/C++ on Arduino Uno, featuring an
   - 🟡 **Yellow LED (15cm - 30cm):** Warning zone (Buzzer beeps once every 3 seconds).
   - 🔴 **Red LED (<15cm):** Danger zone (Buzzer emits continuous alert sound).
 
+## Schematics & Documentation
+📄 You can view and download the official circuit schematic PDF here: 
+[Download Circuit Schematic (PDF)](arduino%20smart%20parking%20sensor.pdf)
+
 ## Components Used
 - Arduino Uno
 - HC-SR04 Ultrasonic Distance Sensor
