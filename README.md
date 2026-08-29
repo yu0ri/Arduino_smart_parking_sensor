@@ -1,5 +1,7 @@
 # Arduino & C++ Smart Parking Sensor
 
+![Circuit Diagram](Spectacular%20Krunk.png)
+
 A smart parking sensor system developed using C/C++ on Arduino Uno, featuring an HC-SR04 ultrasonic distance sensor, status LEDs, a buzzer, and an ON/OFF toggle push button.
 
 ## Features
